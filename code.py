@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import *
 from PIL import imageTk, Image
     
-op=tk.Tk()
+top=tk.Tk()
 top.geometry('400x400')
 top.title('Cartoonify Your Image !')
 top.configure(background='white')
