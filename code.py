@@ -1,4 +1,4 @@
-import cv2, easygui, imageio, 
+import cv2, easygui, imageio
 import sys, os
 import matplotlib.pyplot as plt
 import tkinter as tk
